@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lamborghini Huracan (low-poly)
+* source:	https://sketchfab.com/3d-models/lamborghini-huracan-low-poly-9e76ca23dbb24e0a963057d5cfdc3675
+* author:	rossty3d (https://sketchfab.com/rossty3d)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lamborghini Huracan (low-poly)" (https://sketchfab.com/3d-models/lamborghini-huracan-low-poly-9e76ca23dbb24e0a963057d5cfdc3675) by rossty3d (https://sketchfab.com/rossty3d) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
